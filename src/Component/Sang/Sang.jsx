@@ -156,7 +156,8 @@ const Sang = (props) => {
             placeholder={content.content}
             onChange={onchageContent}
             style={{
-              width: "auto",
+              width: 450,
+              height: 40,
               paddingLeft: 10,
               borderRadius: 20,
               border: "2px solid gray",
